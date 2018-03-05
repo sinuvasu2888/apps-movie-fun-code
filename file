@@ -1,0 +1,2 @@
+ export VCAP_SERVICES="{\"aws-s3\": [{\"credentials\": {\"access_key_id\": \"DZTA755U8WO0HNWIYZN8\", \"bucket\": \"movie-fun-course\", \"secret_access_key\": \"O2immp99vnzDw2/rISt34NCc8EqyVqFUqA24lSDz\"}, \"label\": \"aws-s3\", \"name\": \"moviefun-s3\"}]}"
+ export S3_ENDPOINTURL=http://127.0.0.1:9000
